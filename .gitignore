@@ -1,0 +1,5 @@
+# Innehåller WiFi-uppgifter och Spotify-token, får aldrig checkas in
+secrets.h
+build/
+*.bin
+__pycache__/
